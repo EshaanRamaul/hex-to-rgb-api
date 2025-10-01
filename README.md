@@ -12,6 +12,6 @@ npm run dev
 npm start
 
 3. Test
-npm test
-npm run test:unit
-npm run test:integration
+- `npm test`
+- `npm run test:unit`
+- `npm run test:integration`
